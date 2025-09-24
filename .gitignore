@@ -1,0 +1,19 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+logs/
+
+# Cache
+.cache/
+
+# OS
+Thumbs.db
+Desktop.ini
